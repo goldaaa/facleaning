@@ -1,6 +1,6 @@
 # facleaning
 
-Improved display of Farsi text
+Improved display of persian text
 
 Download
 --------
